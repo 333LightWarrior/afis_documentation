@@ -25,7 +25,7 @@ This manual provides the description of all the functions of the Fire Dashboard.
 
 The Active Fires widget can be used to find information about active fires in your region. The widget allows you to view ownership information for properties when a fire is detected on a property. Fires can be sorted and filtered based on specific criteria.
 
-> ![Active Fires Table](activefirestablewidget.png)
+![Active Fires Table](activefirestablewidget.png)
 
 #### View Fire Information
 
@@ -38,26 +38,24 @@ Select an active fire
 View property information for a fire
 
 1. Select fire.
-2. Click on the ![Property Info Button][propertyinfobutton] button in the table.
-[propertyinfobutton]: activefirestablewidget_property.png
+2. Click on the ![Property Info Button](activefirestablewidget_property.png) <img src="/activefirestablewidget_property.png" alt="property info button" style="width:40;height:40"> 
+button in the table.
 
 Change fire name
 
 1. Select fire.
-2. Click on the ![Edit Button][editbutton] button in the table.
-[editbutton]: activefirestablewidget_edit.png
+2. Click on the ![Edit Button](activefirestablewidget_edit.png) button in the table.
 3. Type a new name.
 
 Dort the fires according to some attribute
 
 1. Click on the sorting field in the table header.
-> ![Active Fires Table Header](activefirestablewidget_tableheader.png)
+![Active Fires Table Header](activefirestablewidget_tableheader.png)
 2. Toggle sorting between ascending (A..Z) and descending (Z..A).
 
 Filter the list to see the fires for a time frame
 
-1. Click on the ![Filter Button][filterbutton] button in the table.
-[filterbutton]: activefirestablewidget_filter.png
+1. Click on the ![Filter Button](activefirestablewidget_filter.png) button in the table.
 2. Select a time frame.
 3. Observe change in count on light blue label.
 
@@ -65,12 +63,12 @@ Filter the list to see the fires for a time frame
 
 The Active Fire Map widget can be used to view active fires on a map. You can zoom in and out on the map and also zoom to a specific area. Four Google Maps layer are available to toggle between.
 
-> ![Active Fires Map](mapwidget.png)
+![Active Fires Map](mapwidget.png)
 
 Switch between different Google Layers
 
 * Select layer by clicking on the layer button you want to load.
-> ![Map Layers](mapwidget_baselayers.png)
+![Map Layers](mapwidget_baselayers.png)
 
 Select an active fire
 
@@ -78,13 +76,11 @@ Select an active fire
 
 Zoom in on map
 
-* Click on the ![Zoom In][zoomin] button.
-[zoomin]: mapwidget_zoomin.png
+* Click on the ![Zoom In](mapwidget_zoomin.png) button.
 
 Zoom out on map
 
-* Click on the ![Zoom Out][zoomout] button.
-[zoomout]: mapwidget_zoomout.png
+* Click on the ![Zoom Out](mapwidget_zoomout.png) button.
 
 Pan on map
 
@@ -93,55 +89,50 @@ Pan on map
 Zoom to area
 
 * Click on map and drag while pressing ‘Shift’.
-> ![Zoom to Area](mapwidget_zoomarea.png)
+![Zoom to Area](mapwidget_zoomarea.png)
 
 #### Graphs
 
 The Graphs widget can be used to view timeline information about fire danger index, temperature, wind speed, rainfall and humidity from different weather stations. 
 
-> ![Graphs](graphwidget.png)
+![Graphs](graphwidget.png)
 
 View Fire Danger Index graph
 
-* Click on the Fire Danger Index ![Fire Danger Index Button][firedangerindexbutton] button.
-[firedangerindexbutton]: graphwidget_fireindex.png
+* Click on the Fire Danger Index ![Fire Danger Index Button](graphwidget_fireindex.png) button.
 
 View Temperature graph
 
-* Click on the Temperature ![Temperature Button][temperaturebutton] button.
-[temperaturebutton]: graphwidget_temperature.png
+* Click on the Temperature ![Temperature Button](graphwidget_temperature.png) button.
 
 View Wind Speed graph
 
-* Click on the Wind Speed ![Wind Speed Button][windspeedbutton] button.
-[windspeedbutton]: graphwidget_windspeed.png
+* Click on the Wind Speed ![Wind Speed Button](graphwidget_windspeed.png) button.
 
 View Rainfall graph
 
-* Click on the Rainfall ![Rainfall Button][rainfallbutton] button.
-[rainfallbutton]: graphwidget_rainfall.png
+* Click on the Rainfall ![Rainfall Button](graphwidget_rainfall.png) button.
 
 View Humidity graph
 
-* Click on Humidity ![Humidity Button][humiditybutton] button.
-[humiditybutton]: graphwidget_humidity.png
+* Click on Humidity ![Humidity Button](graphwidget_humidity.png) button.
 
 Change weather station
 
 1. Click on weather station (name) dropdown.
-> ![Weather Station Dropdown](graphwidget_dropdown.png)
+![Weather Station Dropdown](graphwidget_dropdown.png)
 2. Select the weather station.
 
 Check value for point along graph
 
 * Hover mouse over the point.
-> ![Value](graphwidget_value.png)
+![Value](graphwidget_value.png)
 
 #### Weather Animation
 
 The Weather Animation widget can be used to view an animation of recent weather conditions.
 
-> ![Weather Animation](weatheranimationwidget.png)
+![Weather Animation](weatheranimationwidget.png)
 
 View weather animation
 
@@ -151,90 +142,84 @@ View weather animation
 
 The My FDI Locations widget can be used to view 
 
-> ![My FDI Locations](myfdilocationswidget.png)
+![My FDI Locations](myfdilocationswidget.png)
 
 View data for an FDI location
 
-* Click on the ![Expand Button][expandbutton] button to expand the view.
-[expandbutton]: myfdilocationswidget_expand.png
+* Click on the ![Expand Button](myfdilocationswidget_expand.png) button to expand the view.
 
 Add a FDI location
 
-1. Click on the ![Add Location Button][addlocationbutton] button.
-[addlocationbutton]: myfdilocationswidget_add.png
+1. Click on the ![Add Location Button](myfdilocationswidget_add.png) button.
 2. Add a description in the description field.
 3. Add a latitude in the latitude field.
 4. Add a longitude in the longitude field.
 5. OR: Click on the location on the map.
 6. Click on Add Location.
-> ![Add Location Interface](myfdilocationswidget_addinterface.png)
+![Add Location Interface](myfdilocationswidget_addinterface.png)
 
 Remove a FDI location
 
-* Click on the ![Trash Button][trashbutton] button.
-[trashbutton]: myfdilocationswidget_remove.png
+* Click on the ![Trash Button](myfdilocationswidget_remove.png) button.
 
 #### 5 Day Forecast
     
-> ![5 Day Forecast Widget](fivedayforecastwidget.png)
+![5 Day Forecast Widget](fivedayforecastwidget.png)
 
 View the forecast for a specific day
 
 * Click on the button on the left (or hover over day title).
-> ![Days](fivedayforecastwidget_days.png)
+![Days](fivedayforecastwidget_days.png)
 
 Change the forecast location
 
 1. Click on the location dropdown.
-> ![5 Day Forecast Dropdown](fivedayforecastwidget_dropdown.png)
+![5 Day Forecast Dropdown](fivedayforecastwidget_dropdown.png)
 2. Click on the location name.
-> ![5 Day Forecast Location](fivedayforecastwidget_location.png)
+![5 Day Forecast Location](fivedayforecastwidget_location.png)
 
 Add a forecast location
 
-1. Click on the ![Add Location Button][addlocationbutton] button.
-[addlocationbutton]: myfdilocationswidget_add.png
+1. Click on the ![Add Location Button](myfdilocationswidget_add.png) button.
 2. Add a description in the description field.
 3. Add a latitude in the latitude field.
 4. Add a longitude in the longitude field.
 5. OR: Click on the location on the map.
 6. Click on Add Location.
-> ![Add Location Interface](myfdilocationswidget_addinterface.png)
+![Add Location Interface](myfdilocationswidget_addinterface.png)
 
 Remove location
 
-* Click on the ![Trash Button][trashbutton] button.
-[trashbutton]: myfdilocationswidget_remove.png
+* Click on the ![Trash Button](myfdilocationswidget_remove.png) button.
 
 #### Reports
 
-> ![Reports](reportswidget.png)
+![Reports](reportswidget.png)
 
 View a report
 
 * Click on the report title on calender view.
-> ![View Report on Calender Viwe](reportswidget_open.png)
+![View Report on Calender Viwe](reportswidget_open.png)
 
 Request a report
 
 1. Click on Request Report button.
-> ![Request Report](reportswidget_requestreport.png)
+![Request Report](reportswidget_requestreport.png)
 2. Type a report name.
 3. Choose a report type.
 4. Select a date range.
 5. Click on Request Report
-> ![Request Report Interface](reportswidget_customreport.png)
+![Request Report Interface](reportswidget_customreport.png)
 
 hello
 
 Change the month viewed
 
-* Click on the ![Change Month Buttons][changemonthbuttons] buttons.
-[changemonthbuttons]: reportswidget_changemonth.png
+* Click on the ![Change Month Buttons](eportswidget_changemonth.png) buttons.
 
 #### Requested Reports
 
-> ![Requested Reports](requestedreportswidget.png)
+![Requested Reports](requestedreportswidget.png)
 
 View a report
 
@@ -242,14 +227,13 @@ View a report
 
 Remove a report
 
-* Click on the ![Remove Report Button][removereportbutton] button.
-[removereportbutton]: requestedreportswidget_remove.png
+* Click on the ![Remove Report Button](requestedreportswidget_remove.png) button.
 
 #### Monthly Reports
 
-> ![Monthly Reports](monthlyreportswidget.png)
+![Monthly Reports](monthlyreportswidget.png)
 
 View a monthly report
 
 * Click on the report title.
-> ![View Requested Reports](monthlyreportswidget_open.png)
+![View Requested Reports](monthlyreportswidget_open.png)
