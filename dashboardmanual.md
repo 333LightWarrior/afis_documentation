@@ -38,7 +38,7 @@ Select an active fire
 View property information for a fire
 
 1. Select fire.
-2. Click on the ![Property Info Button](activefirestablewidget_property.png) <img src="/activefirestablewidget_property.png" alt="property info button" style="width:40;height:40"> 
+2. Click on the ![Property Info Button](activefirestablewidget_property.png) <img src="https://github.com/333LightWarrior/afis_documentation/blob/melissa//activefirestablewidget_property.png?raw=true" alt="property info button" style="width:50px;height:50px;"> 
 button in the table.
 
 Change fire name
