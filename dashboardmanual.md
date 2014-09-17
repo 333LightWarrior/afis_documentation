@@ -37,12 +37,20 @@ The Active Fires widget can be used to find information about **fires that are c
 
 ** *Table fields* **
 
-- **Location name**:
+- **Location name**
 		The location name where the fire is detected.
-- **Time since last burned**: The time in days/months/years since a detection was last made at the fire's location.
-- **Max FRP**: The maximum Fire Radiative Power produced from the flame (in mega-watt).
-- Sort fires according to an attribute.
-- Filter fires according to the date and time detected.		
+- **Time since last burned**
+		The time in days/months/years since a detection was last made at the fire's location.
+- **Max FRP**
+		The maximum Fire Radiative Power produced from the flame (Mega-Watt).
+- **Area**
+		The area the fire covers (Hectar).
+- **First Seen**
+		The date and time this fire was detected the first time.
+- **Current FDI**
+		The Fire Danger Index at the time the fire was detected.
+- **Max FDI**
+		The maximum Fire Danger Index for the entire day the fire was detected.
 
 **Select a fire to reference on a map**
 
