@@ -159,7 +159,7 @@ Check value for point along graph
 
 * Hover mouse over the point.
 > ![Value](graphwidget_value.png)
-
+___
 ### Weather Animation
 
 The Weather Animation widget can be used to view an animation of recent weather conditions.
@@ -169,7 +169,7 @@ The Weather Animation widget can be used to view an animation of recent weather 
 View weather animation
 
 * No interaction.
-
+___
 ### My FDI Locations
 
 The My FDI Locations widget can be used to view 
@@ -196,7 +196,7 @@ Remove a FDI location
 
 * Click on the ![Trash Button][trashbutton] button.
 [trashbutton]: myfdilocationswidget_remove.png
-
+___
 ### 5 Day Forecast
     
 > ![5 Day Forecast Widget](fivedayforecastwidget.png)
@@ -228,7 +228,7 @@ Remove location
 
 * Click on the ![Trash Button][trashbutton] button.
 [trashbutton]: myfdilocationswidget_remove.png
-
+___
 ### Reports
 
 > ![Reports](reportswidget.png)
@@ -252,7 +252,7 @@ Change the month viewed
 
 * Click on the ![Change Month Buttons][changemonthbuttons] buttons.
 [changemonthbuttons]: reportswidget_changemonth.png
-
+___
 ### Requested Reports
 
 > ![Requested Reports](requestedreportswidget.png)
@@ -265,7 +265,7 @@ Remove a report
 
 * Click on the ![Remove Report Button][removereportbutton] button.
 [removereportbutton]: requestedreportswidget_remove.png
-
+___
 ### Monthly Reports
 
 > ![Monthly Reports](monthlyreportswidget.png)
