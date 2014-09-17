@@ -47,12 +47,15 @@ The Active Fires widget can be used to find information about **fires that are c
 		The area the fire covers (Hectar).
 - **First Seen**
 		The date and time this fire was detected the first time.
-- **Current FDI**
+**Current FDI**
 		The Fire Danger Index at the time the fire was detected.
-- **Max FDI**
+**Max FDI**
 		The maximum Fire Danger Index for the entire day the fire was detected.
 
 **Select a fire to reference on a map**
+
+		**Why would I want to do this?**
+        Selecting a fire 
 
 1. Click on fire in table
 2. OR: Search (if user knows location name)
