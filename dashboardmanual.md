@@ -1,14 +1,14 @@
 # Fynbos Fire Dashboard
 
-## User Guide
+# User Guide
 
-### Disclaimer
+## Disclaimer
 ?????????????????????????????????????????????????????????
 <CSIR disclaimer>
 
 Copyright © 2014 CSIR
 
-### Preface
+## Preface
 
 Thank you for choosing AFIS products! This user manual provides detailed instructions of using the AFIS Fire Dashboard. Please read carefully and start to enjoy the powerful functions of our program!
 
@@ -16,18 +16,18 @@ This manual provides the description of all the functions of the Fire Dashboard.
 
 ?????????????????????????????????????????????????????????
 
-### Content
+## Content
 ?????????????????????????????????????????????????????????
 
-### Features & How-To
+## Features & How-To
 
-#### Active Fires Table
+### Active Fires Table
 
 The Active Fires widget can be used to find information about **fires that are currently active in your region**. The widget allows you to view ownership information for properties when a fire is detected on a property. Fires can be sorted and filtered based on specific criteria.
 
 > ![Active Fires Table](activefirestablewidget.png)
 
-#### View Fire Information
+### View Fire Information
 
 Select an active fire
 
@@ -61,7 +61,7 @@ Filter the list to see the fires for a time frame
 2. Select a time frame.
 3. Observe change in count on light blue label.
 
-#### Active Fire Map
+### Active Fire Map
 
 The Active Fire Map widget can be used to view active fires on a map. You can zoom in and out on the map and also zoom to a specific area. Four Google Maps layer are available to toggle between.
 
@@ -95,7 +95,7 @@ Zoom to area
 * Click on map and drag while pressing ‘Shift’.
 > ![Zoom to Area](mapwidget_zoomarea.png)
 
-#### Graphs
+### Graphs
 
 The Graphs widget can be used to view timeline information about fire danger index, temperature, wind speed, rainfall and humidity from different weather stations. 
 
@@ -137,7 +137,7 @@ Check value for point along graph
 * Hover mouse over the point.
 > ![Value](graphwidget_value.png)
 
-#### Weather Animation
+### Weather Animation
 
 The Weather Animation widget can be used to view an animation of recent weather conditions.
 
@@ -147,7 +147,7 @@ View weather animation
 
 * No interaction.
 
-#### My FDI Locations
+### My FDI Locations
 
 The My FDI Locations widget can be used to view 
 
@@ -174,7 +174,7 @@ Remove a FDI location
 * Click on the ![Trash Button][trashbutton] button.
 [trashbutton]: myfdilocationswidget_remove.png
 
-#### 5 Day Forecast
+### 5 Day Forecast
     
 > ![5 Day Forecast Widget](fivedayforecastwidget.png)
 
@@ -206,7 +206,7 @@ Remove location
 * Click on the ![Trash Button][trashbutton] button.
 [trashbutton]: myfdilocationswidget_remove.png
 
-#### Reports
+### Reports
 
 > ![Reports](reportswidget.png)
 
@@ -232,7 +232,7 @@ Change the month viewed
 * Click on the ![Change Month Buttons][changemonthbuttons] buttons.
 [changemonthbuttons]: reportswidget_changemonth.png
 
-#### Requested Reports
+### Requested Reports
 
 > ![Requested Reports](requestedreportswidget.png)
 
@@ -245,7 +245,7 @@ Remove a report
 * Click on the ![Remove Report Button][removereportbutton] button.
 [removereportbutton]: requestedreportswidget_remove.png
 
-#### Monthly Reports
+### Monthly Reports
 
 > ![Monthly Reports](monthlyreportswidget.png)
 
