@@ -33,26 +33,26 @@ The Active Fires widget can be used to find information about **fires that are c
 
 > ![Active Fires Table](activefirestablewidget.png)
 
-- Select a fire to reference on a map
+ Select a fire to reference on a map
 
 1. Click on fire in table
 2. OR: Search (if user knows location name)
 3. View information in the table
 
-- View property information for a fire
+ View property information for a fire
 
 1. Select fire.
 2. Click on the ![Property Info Button][propertyinfobutton] button in the table.
 [propertyinfobutton]: activefirestablewidget_property.png
 
-- Change fire name
+ Change fire name
 
 1. Select fire.
 2. Click on the ![Edit Button][editbutton] button in the table.
 [editbutton]: activefirestablewidget_edit.png
 3. Type a new name.
 
-- Sort the fires according to some attribute
+ Sort the fires according to some attribute
 
 1. Click on the sorting field in the table header.
 > ![Active Fires Table Header](activefirestablewidget_tableheader.png)
