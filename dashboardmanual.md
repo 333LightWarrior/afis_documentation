@@ -225,7 +225,7 @@ Request a report
 5. Click on Request Report
 > ![Request Report Interface](reportswidget_customreport.png)
 
-HELLO
+hello
 
 Change the month viewed
 
