@@ -35,6 +35,13 @@ The Active Fires widget can be used to find information about **fires that are c
 4. Sort fires according to an attribute.
 5. Filter fires according to the date and time detected.		
 
+** *Table fields* **
+
+- Location name: The location name where the fire is detected.
+- Time since last burned: The time in days/months/years since a detection was last made at the fire's location.
+- Max FRP: The maximum Fire Radiative Power produced from the flame (in mega-watt).
+- Sort fires according to an attribute.
+- Filter fires according to the date and time detected.		
 
 **Select a fire to reference on a map**
 
