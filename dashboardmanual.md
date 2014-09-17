@@ -21,7 +21,7 @@ This manual provides the description of all the functions of the Fire Dashboard.
 
 ### Features & How-To
 
-#### Active Fires Table
+### Active Fires Table
 
 The Active Fires widget can be used to find information about **fires that are currently active in your region**. The widget allows you to view ownership information for properties when a fire is detected on a property. Fires can be sorted and filtered based on specific criteria.
 
