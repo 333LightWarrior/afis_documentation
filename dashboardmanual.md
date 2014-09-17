@@ -43,15 +43,15 @@ The Active Fires widget can be used to find information about **fires that are c
 		The Fire Danger Index at the time the fire was detected.
 - **Max FDI**
 		The maximum Fire Danger Index for the entire day the fire was detected.
-
-** *What can I do?* **
+---
+### What can I do?
 
 1. Select a fire to reference on a map
 2. View the contact information for properties that influenced with a specific fire.
 3. Edit the fire description for later reference.
 4. Sort fires according to an attribute.
 5. Filter fires according to the date and time detected.		
-
+---
 **Select a fire to reference on a map**
 
 1. Click on fire in table
