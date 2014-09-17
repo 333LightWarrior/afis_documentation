@@ -29,7 +29,9 @@ The Active Fires widget can be used to find information about **fires that are c
 
 1. Select a fire to reference on a map
 2. View the contact information for properties that influenced with a specific fire.
-3. item
+3. Edit the fire **description** for later reference.
+4. Sort fires according to an attribute.
+5. Filter fires according to the date and time detected.
 
 > ![Active Fires Table](activefirestablewidget.png)
 
@@ -58,7 +60,7 @@ The Active Fires widget can be used to find information about **fires that are c
 > ![Active Fires Table Header](activefirestablewidget_tableheader.png)
 2. Toggle sorting between ascending (A..Z) and descending (Z..A).
 
-- Filter the list to see the fires for a time frame
+Filter the list to see the fires for a time frame
 
 1. Click on the ![Filter Button][filterbutton] button in the table.
 [filterbutton]: activefirestablewidget_filter.png
