@@ -23,40 +23,42 @@ This manual provides the description of all the functions of the Fire Dashboard.
 
 ### Active Fires Table
 
-The Active Fires widget can be used to find information about **fires that are currently active in your region**. The widget allows you to view ownership information for properties when a fire is detected on a property. Fires can be sorted and filtered based on specific criteria.
+The Active Fires widget can be used to find information about **fires that are currently active in your region** for max the last two days.
 
 ** *What can I do?* **
 
+1. Select a fire to reference on a map
+2. View the contact information for properties that influenced with a specific fire.
+3. item
+
 > ![Active Fires Table](activefirestablewidget.png)
 
-### View Fire Information
-
-Select an active fire
+- Select a fire to reference on a map
 
 1. Click on fire in table
 2. OR: Search (if user knows location name)
 3. View information in the table
 
-View property information for a fire
+- View property information for a fire
 
 1. Select fire.
 2. Click on the ![Property Info Button][propertyinfobutton] button in the table.
 [propertyinfobutton]: activefirestablewidget_property.png
 
-Change fire name
+- Change fire name
 
 1. Select fire.
 2. Click on the ![Edit Button][editbutton] button in the table.
 [editbutton]: activefirestablewidget_edit.png
 3. Type a new name.
 
-Dort the fires according to some attribute
+- Sort the fires according to some attribute
 
 1. Click on the sorting field in the table header.
 > ![Active Fires Table Header](activefirestablewidget_tableheader.png)
 2. Toggle sorting between ascending (A..Z) and descending (Z..A).
 
-Filter the list to see the fires for a time frame
+- Filter the list to see the fires for a time frame
 
 1. Click on the ![Filter Button][filterbutton] button in the table.
 [filterbutton]: activefirestablewidget_filter.png
