@@ -25,6 +25,8 @@ This manual provides the description of all the functions of the Fire Dashboard.
 
 The Active Fires widget can be used to find information about **fires that are currently active in your region**. The widget allows you to view ownership information for properties when a fire is detected on a property. Fires can be sorted and filtered based on specific criteria.
 
+** *What can I do?* **
+
 > ![Active Fires Table](activefirestablewidget.png)
 
 ### View Fire Information
@@ -224,8 +226,6 @@ Request a report
 4. Select a date range.
 5. Click on Request Report
 > ![Request Report Interface](reportswidget_customreport.png)
-
-hello
 
 Change the month viewed
 
